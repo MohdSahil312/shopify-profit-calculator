@@ -18,8 +18,6 @@ Before deploying, update your personal info in `app/page.tsx`:
 2. Replace `Your Name` with your actual name
 3. Replace `your@email.com` with your email address
 
-The **"Built for Digital Heroes"** button already links to `https://digitalheroesco.com` ✅
-
 ## 📊 Features
 
 - **5 Inputs**: Selling price, product cost, shipping, ad spend, gateway fee %
